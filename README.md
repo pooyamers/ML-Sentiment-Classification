@@ -11,5 +11,7 @@ We evaluate the performance by using accuracy and averages of the F1-scores as
 our metrics. Our analysis results show that while LR performs best for predicting
 the neutral sentiment in our dataset, Bi-LSTM yields the highest overall accuracy at
 72.8%, slightly followed by CNN at 72.2%, and LR at 71.4%.
+
+
 Keywords: Sentiment classification, TF-IDF, Word-Embeddings, Logistic Regression,
 CNN, LSTM, Amazon reviews, Twitter
